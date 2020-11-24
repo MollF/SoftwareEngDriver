@@ -15,7 +15,11 @@
         <dependency>
 	    <groupId>com.github.MollF</groupId>
 	    <artifactId>SoftwareEng3</artifactId>
+<<<<<<< HEAD
+	    <version>v1.6</version>
+=======
 	    <version>v1.5</version>
+>>>>>>> 749ee0dbe61cb9a243fb87b18b8fc81815d99720
 	</dependency>
         <dependency>
             <groupId>com.mycompany</groupId>
